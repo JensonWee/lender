@@ -40,7 +40,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        addLoan("Alice Betsy1", 10, 0.1);
+        addLoan("Alice Betsy", 10, 0.1);
         addLoan("Ben Chee", 20, 0.2);
         addLoan("Chris Davis", 30, 0.3);
         setAsPaid("Ben Chee");
